@@ -1,6 +1,6 @@
 # Magic 8 Ball Application 🎱
 
-## Languages Used
+### Languages Used
 
 Flutter and Dart
 ## What you will create
